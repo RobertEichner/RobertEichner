@@ -4,4 +4,4 @@
 
 - I like to program in C# but also have experience in Python, C++, Java and JavaScript.
 
-You can find an overview of my work here at my github or in more detail at my website: https://roberteichner.github.io/.
+<!--You can find an overview of my work here at my github or in more detail at my website: https://roberteichner.github.io/.-->
